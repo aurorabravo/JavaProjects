@@ -2,7 +2,7 @@ package edu.ncsu.csc216.cash_register;
 
 /**
  * A collection of currency for US dollars
- * @author SarahHeckman
+ * @author Aurora Bravo
  */
 public class CurrencyCollection {
 

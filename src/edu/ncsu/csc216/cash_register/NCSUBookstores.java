@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * User interface for the NCSU Bookstores cash register
- * @author SarahHeckman
+ * @author Aurora Bravo
  */
 public class NCSUBookstores {
 	/** User input string for refund */

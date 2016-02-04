@@ -6,7 +6,7 @@ package edu.ncsu.csc216.cash_register;
  * knows what collection of currency is in the drawer and 
  * it's balance.
  * 
- * @author SarahHeckman
+ * @author Aurora Bravo
  */
 public class CashRegister {
 	

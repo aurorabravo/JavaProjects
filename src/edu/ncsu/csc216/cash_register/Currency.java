@@ -2,7 +2,7 @@ package edu.ncsu.csc216.cash_register;
 
 /**
  * Represents a bill or coin that is a currency
- * @author SarahHeckman
+ * @author Aurora Bravo
  */
 public class Currency {
 	
